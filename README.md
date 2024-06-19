@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img  src="./github-header-image.png"/> -->
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=golden-k22&theme=onedark" alt="golden-k22" /></a></p>
+  <!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=golden-k22&theme=onedark" alt="golden-k22" /></a></p> -->
 </div>
 
 <hr>
@@ -12,7 +12,7 @@
       <a href="./LICENSE"><img src="https://img.shields.io/github/license/golden-k22/golden-k22?style=for-the-badge&color=brightgreen"/></a>
       <p>🔭 I’m currently working on <a href="https://github.com/golden-k22/ERP-solution">ERP Solutions</a></p>
       <p>👯 I’m collaborating on <a href="https://github.com/golden-k22/saas_iotwave">SaaS IoT wave dashboard</a></p>
-      <p>📫 How to reach me: <a href="">apollodevmy@gmail.com</p>
+      <p>📫 How to reach me  :  <a href="">apollodevmy@gmail.com</p>
 </div>
 
 <hr>
