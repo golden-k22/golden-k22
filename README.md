@@ -6,8 +6,8 @@
 <hr>
 
 <div align="center">
-    <a href="https://github.com/davevad93"><img src="https://komarev.com/ghpvc/?username=davevad93&color=brightgreen&style=for-the-badge"/><a/>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/davevad93/davevad93?style=for-the-badge&color=brightgreen"/></a>
+    <a href="https://github.com/golden-k22"><img src="https://komarev.com/ghpvc/?username=golden-k22&color=brightgreen&style=for-the-badge"/><a/>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/golden-k22/golden-k22?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
 <hr>
