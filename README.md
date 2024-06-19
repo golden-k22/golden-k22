@@ -12,8 +12,7 @@
       <a href="./LICENSE"><img src="https://img.shields.io/github/license/golden-k22/golden-k22?style=for-the-badge&color=brightgreen"/></a>
       <p>🔭 I’m currently working on <a href="https://github.com/golden-k22/ERP-solution">ERP Solutions</a></p>
       <p>👯 I’m collaborating on <a href="https://github.com/golden-k22/saas_iotwave">SaaS IoT wave dashboard</a></p>
-      <p>💬 Ask me about <b>Python, C#, Internet of Things, Java, Nodejs, PHP.</b></p> 
-      <p>📫 How to reach me: apollodevmy@gmail.com</p>
+      <p>📫 How to reach me: <p color=blue>apollodevmy@gmail.com</p></p>
 </div>
 
 <hr>
