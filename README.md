@@ -1,7 +1,7 @@
-<!-- <div align="center">
-  <img  src="./github-header-image.png"/>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=onedark" alt="davevad93" /></a></p>
-</div>   -->
+<div align="center">
+  <!-- <img  src="./github-header-image.png"/> -->
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=golden-k22&theme=onedark" alt="golden-k22" /></a></p>
+</div>
 
 <hr>
 
@@ -41,15 +41,13 @@
 
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=golden-k22&show_icons=true&locale=en&layout=compact&theme=onedark" alt="golden-k22" width=460 /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=golden-k22&show_icons=true&locale=en&theme=onedark" alt="golden-k22" width=460 /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=golden-k22&&theme=onedark" alt="golden-k22" width=460 /></p>
+  <!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=golden-k22&show_icons=true&locale=en&theme=onedark" alt="golden-k22" width=460 /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=golden-k22&&theme=onedark" alt="golden-k22" width=460 /></p> -->
 </div>
 
-[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=golden-k22&theme=github-compact&bg_color=282C35)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
-**davevad93/davevad93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
